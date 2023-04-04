@@ -51,7 +51,8 @@ body{
   .selection{
     height: 100%;
     text-align: center;
-    padding: 180px;
+    padding-top: 100px;
+    padding-bottom: 100px;
     margin: auto;
     color: #fff;
     background-color: rgba(0,0,0,0.7);
